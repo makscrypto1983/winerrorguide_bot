@@ -1,7 +1,7 @@
 import telebot
 
 # Замените 'YOUR_TELEGRAM_BOT_TOKEN' на токен вашего бота
-TOKEN = '6482850853:AAGfBeOYSHLgs-6mcl3277NrpADzqtMICAU'
+TOKEN = 'token'
 
 # Путь к файлу с кодами ошибок
 ERROR_CODES_FILE = 'error_codes.txt'
